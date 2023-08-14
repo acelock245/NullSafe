@@ -1,4 +1,4 @@
-NullSafe
+safe
 
 Copyright (C) 2012 Charcoal Design
 
